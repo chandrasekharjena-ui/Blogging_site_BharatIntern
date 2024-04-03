@@ -16,7 +16,7 @@
 
 ## Frontend page
 
-![Blog Website and 1 more page - Personal - Microsoft​ Edge 03-04-2024 21_53_57](https://github.com/chandrasekharjena-ui/Blogging_site_BharatIntern/assets/72114961/d37bfe70-9f4d-4461-8913-a98e108ea2c7)
+![Blog Website and 1 more page - Personal - Microsoft​ Edge 03-04-2024 21_53_57](https://github.com/chandrasekharjena-ui/Blogging_site_BharatIntern/assets/72114961/a7b59baa-a023-45e1-957f-67bc50c97d72)
 
 ### create Blog page
 
@@ -24,7 +24,7 @@
 
 click on create article the inputed create articles that store to the database
 
-![Blog Website and 1 more page - Personal - Microsoft​ Edge 03-04-2024 21_57_40](https://github.com/chandrasekharjena-ui/Blogging_site_BharatIntern/assets/72114961/f7b18e6f-4b04-4298-881d-187ffba2a382)
+![Blog Website and 1 more page - Personal - Microsoft​ Edge 03-04-2024 21_57_40](https://github.com/chandrasekharjena-ui/Blogging_site_BharatIntern/assets/72114961/3f79d671-83d6-4333-823d-342a39c4f736)
 
 
 ### Edit article page
@@ -33,8 +33,7 @@ click on create article the inputed create articles that store to the database
 
 •	After clicking on the save change update the data to the database
 
-![Blog Website and 1 more page - Personal - Microsoft​ Edge 03-04-2024 21_57_27](https://github.com/chandrasekharjena-ui/Blogging_site_BharatIntern/assets/72114961/e16c5395-2daa-434b-82b3-744020f00e92)
-
+![Blog Website and 1 more page - Personal - Microsoft​ Edge 03-04-2024 21_57_27](https://github.com/chandrasekharjena-ui/Blogging_site_BharatIntern/assets/72114961/08c76959-c1fa-44d5-895f-b8034e80669a)
 
 ### Backend server
 #### Dependence for running the application 
